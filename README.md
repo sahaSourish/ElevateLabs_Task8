@@ -41,7 +41,7 @@ This project is about exploring sales data in a simple and visual way using Powe
 - `Sample.pbix` – The actual Power BI dashboard
 - `superstore_sales.csv` – The raw sales data I used
 - `Result.pdf` Final look of the dashboard
-- `Sales_Dashboard_Insights.txt` – Key insights from the dashboard
+- `Insights.txt` – Key insights from the dashboard
 - `README.md` – This file you're reading right now!
 
 Thanks for taking a look at my project!
