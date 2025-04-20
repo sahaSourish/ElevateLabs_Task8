@@ -1,0 +1,10 @@
+Insights from Superstore Sales Dashboard
+------------------------------------------
+
+1. The West region consistently had the highest sales across the months.
+2. Technology was the top-performing product category in terms of both sales and profit.
+3. Sales peaked in November and December, suggesting strong year-end performance.
+4. The South region had the lowest overall sales, which might be a potential area for improvement.
+5. Despite high sales, the Office Supplies category had lower average profit margins compared to Technology.
+
+These insights were derived after analyzing the cleaned dataset using Power BI visualizations including line, bar, and donut charts.
