@@ -1,0 +1,9 @@
+Superstore Sales Dashboard Insights
+-----------------------------------
+
+1. The West region consistently recorded the highest total sales among all regions.
+2. The Technology category led all other product categories in terms of sales volume.
+3. Sales showed a noticeable peak during the months of November and December, suggesting a strong holiday season impact.
+4. Despite high sales, the Office Supplies category had lower average profit margins compared to Technology.
+
+These insights were derived after analyzing the cleaned dataset using Power BI visualizations including line, bar, and donut charts.
